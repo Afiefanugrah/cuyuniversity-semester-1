@@ -36,9 +36,10 @@ html {
 }
 
 .li-nav:hover {
-    background-color: tomato;
+    background-color: black;
     /* color: black; */
     transition: .5s;
+    border-radius: 10px;
 }
 
 .a-nav {
@@ -81,6 +82,7 @@ html {
 }
 
 /* content end */
+
 
 /* footer */
 .container-footer {
